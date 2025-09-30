@@ -44,7 +44,9 @@ switch2.
 
 ### CIRCUIT DIAGRAM: 
 
-![WhatsApp Image 2025-09-30 at 13 28 57_5a5a6acb](https://github.com/user-attachments/assets/3fe625f4-ba30-4348-887e-4f4b5d4a56f3)
+![WhatsApp Image 2025-09-30 at 13 28 57_5a5a6acb](https://github.com/user-attachments/assets/3fe625f4-ba30-4348-887e-4f4b5d4a56f3
+
+<img width="1918" height="1137" alt="Screenshot 2025-09-23 132909" src="https://github.com/user-attachments/assets/15adc3ca-c2f7-4605-a892-5f5cb97d5028" />
 
 ### Tabulation:
 
@@ -55,6 +57,8 @@ switch2.
 ### CIRCUIT DIAGRAM:
 
 ![WhatsApp Image 2025-09-30 at 13 28 58_1ccf448e](https://github.com/user-attachments/assets/1ba83be0-8a2f-4978-a71c-170bae341669)
+
+<img width="1919" height="1137" alt="Screenshot 2025-09-23 133349" src="https://github.com/user-attachments/assets/b1a98c0e-791a-4571-904b-ef0b54292ab9" />
 
 ### Tabulation:
 
