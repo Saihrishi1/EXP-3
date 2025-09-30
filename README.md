@@ -2,9 +2,10 @@
 EXPT NO: 3				STAIR CASE WIRING                     
 
  
-AIM
+## AIM
  To control the status of the given lamp by using two–way switches. 
-APPARATUS REQUIRED:
+
+## APPARATUS REQUIRED:
 
 S. No.
 Name of the apparatus	
@@ -20,13 +21,13 @@ Quantity
 7	Round block	-	1 No.
 
 
-Theory:
+## Theory:
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
 •	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
 •	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
-PROCEDURE
+## PROCEDURE
 •  Place the accessories on the wiring board as per the circuit diagram.
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
 •	Take one wire connect one end to the phase side and other end to the middle point of SPDT switch 1
@@ -39,12 +40,25 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+## Direct Connection:
 
-Tabulation:2
+### CIRCUIT DIAGRAM: 
 
-RESULT:
+![WhatsApp Image 2025-09-30 at 13 28 57_5a5a6acb](https://github.com/user-attachments/assets/3fe625f4-ba30-4348-887e-4f4b5d4a56f3)
+
+### Tabulation:
+
+![WhatsApp Image 2025-09-30 at 13 28 57_a8a39457](https://github.com/user-attachments/assets/4fbe5dd8-a7f9-4854-a453-dfa768cc78a0)
+
+## Cross connection: 
+
+### CIRCUIT DIAGRAM:
+
+![WhatsApp Image 2025-09-30 at 13 28 58_1ccf448e](https://github.com/user-attachments/assets/1ba83be0-8a2f-4978-a71c-170bae341669)
+
+### Tabulation:
+
+![WhatsApp Image 2025-09-30 at 13 28 57_41d9e4bf](https://github.com/user-attachments/assets/51db14a3-3c74-426c-97c6-c914ab8f1d50)
+
+## RESULT:
 Thus the staircase wiring is connected and tested.
